@@ -23,7 +23,7 @@
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
-      <idea-undo enabled="false" />
+      <idea-undo enabled="true" />
     </notifications>
   </component>
 </application>
