@@ -36,6 +36,10 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
   <action id="PCFindUsagesAction">
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
